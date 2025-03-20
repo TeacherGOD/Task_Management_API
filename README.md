@@ -42,6 +42,7 @@ Backend: Java 17, Spring Boot 3.2, Spring Security, JWT
 
 
 ## Конфигурация
+Для удобства приложил данные файлы в репозиторий, но, в реальных проектах, само-собой, так делать не стоит.
 #### Настройки в `application.properties`:
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/task_management
